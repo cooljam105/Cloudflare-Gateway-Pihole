@@ -157,3 +157,14 @@ jidroumsaghetu.xyz
 hautoust.com
 agamagcargoan.com
 patchouptid.xyz
+pagead2.googlesyndication.com
+adservice.google.com
+stats.g.doubleclick.net
+mediavisor.doubleclick.net
+static.media.net
+google-analytics.com
+cdn.mouseflow.com
+fwtracks.freshmarketer.com
+pixel.facebook.com
+an.facebook.com
+ads.tiktok.com
