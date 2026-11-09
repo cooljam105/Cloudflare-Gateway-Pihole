@@ -168,3 +168,15 @@ fwtracks.freshmarketer.com
 pixel.facebook.com
 an.facebook.com
 ads.tiktok.com
+ads.linkedin.com
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+notes-analytics-events.apple.com
+books-analytics-events.apple.com
+metrics.mzstatic.com
+mouseflow.com
+api.mouseflow.com
+tools.mouseflow.com
